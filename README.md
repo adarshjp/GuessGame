@@ -64,8 +64,3 @@ The system should be tested with various scenarios to ensure its functionality a
 * Offering different difficulty levels with smaller or larger number ranges.
 * Providing additional feedback or hints based on the user's guesses.
 * Implementing leaderboards or scores to track past performance.
-
-This document provides a basic framework for the guessing game. The specific implementation details and technical decisions may vary depending on the chosen programming language and development environment.
-
-This design document is in Markdown format (.md). I hope this format is more suitable for your needs!
-
